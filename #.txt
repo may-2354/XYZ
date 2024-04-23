@@ -275,8 +275,8 @@ next:
 
     jmp error
 
-sub37h:sub al,07h
 sub57h:sub al,20h
+sub37h:sub al,07h
 sub30h:sub al,30h
 
     add bx,ax
